@@ -1,0 +1,220 @@
+    1  git config -- global username "Zwelibanzi Ntanzi"
+    2   git config --global user.name "Zwelibanzi Ntanzi"
+    3  git config --global user.email zwelibanzi.Ntanzi@umuzi.org
+    4  git config -- global init.default branch main
+    5  git config --global init.default branch main
+    6  clear
+    7  cd:[200~"C:\Users\OEM\OneDrive - Capitec Bank Ltd\Desktop\GitPractice"~
+    8  cd Users/OEM/OneDrive - Capitec Bank/Desktop/GitPractice
+    9  cd C:\GitPractice
+   10  git init
+   11  git status
+   12  clear
+   13  exit
+   14  git config --global init.default branch main
+   15  cd:C:\GitPractice
+   16  cd: C:\GitPractice
+   17  cd C:\GitPractice
+   18  git branch -m master main
+   19  git push u-origin main
+   20  git push -u origin main
+   21   git status
+   22  git push origin --delete master
+   23  git add index.htm
+   24  git status
+   25  git rm --cached index.htm
+   26  git status
+   27  git status
+   28  clear
+   29  git add --all
+   30  git status
+   31  git status
+   32  git commit -m "first commit - commiting all files to the repository"
+   33  git status
+   34  git status
+   35  git diff
+   36  git add  index.htm
+   37  git restore index.htm
+   38  git commit -a -m "updated text to free range"
+   39  git rm "secret recipe.htm"
+   40  git status
+   41  git restore "secrete recipe.htm"
+   42  git restore "secret recipe.htm"
+   43  git restore "secrete recipe.htm"
+   44  git restore "secret recipe.htm"
+   45  git restore --stagged "secret recipe.htm"
+   46  git restore --staged index.htm
+   47  git restore "secret recipe.htm"
+   48  ls
+   49  ls-files
+   50  git status
+   51  git restore --staged "secret recipe.htm"
+   52  git status
+   53  git restore "secret recipe.htm"
+   54  status
+   55  git status
+   56  git revert index.htm
+   57  git restore index.htm
+   58  git mv "KCC logo.png" "Primary Logo.png"
+   59  git mv "KCC Logo.png" "Primary Logo.png"
+   60  git  commit -m "changed the file name of an imgage"
+   61  git log
+   62  git commit -m "changed file name of an image" --amend
+   63  git log -p
+   64  q
+   65  git branch Fix Temp
+   66  git branch FixTemp
+   67  git branch
+   68  git switch Fixtemp
+   69  git branch
+   70  git status
+   71  git commit -a -m "updated  temp for backing instructions"
+   72  git switch main
+   73  git merge -m "Merge FixTemp to main" FixTemp
+   74  git branch -d FixTemp
+   75  git branch
+   76  git switch -c UpdateText
+   77  git branch
+   78  git commit -a -m "update index text"
+   79  git switch main
+   80  git commit -a -m  "Update index text"
+   81  git merge -m " merge UpdateText to main" UpdateText
+   82  git commit -a -m "update text on index"
+   83  [200~git remote add origin https://github.com/ZweliNtanzi/GitPractice.git
+   84  git branch -M main
+   85  git remote add origin https://github.com/ZweliNtanzi/GitPractice.git
+   86  git branch -M main
+   87  git push -u origin main
+   88  git push --all
+   89  git fetch
+   90  git merge
+   91  git pull
+   92  exit
+   93  mkdir git-basic-exercises
+   94  cd C:\Users\OEM\git-basic-exercises
+   95  cd C:\Users\OEM\git-basic-exercises
+   96  cd C:/Users/OEM/git-basic-exercises
+   97  ls
+   98  ls git-basic-exercises
+   99  ls -a
+  100  git init 
+  101  ls -a
+  102  touch README.md
+  103  ls -a
+  104  git status
+  105  git log 
+  106  git add README.md
+  107  git status
+  108  git rm README.md
+  109  git rm --README.md
+  110  git status
+  111  git restore --staged README.md
+  112  git status
+  113  git rm --cached README.md
+  114  git status
+  115  git add README.md
+  116  git status
+  117  git commit -m "intial commit"
+  118  git branch -m master main
+  119  git status
+  120  ls
+  121  git log
+  122  q
+  123  nano README.md
+  124  cat README.md
+  125  git status
+  126  git add README.md
+  127  git commit -m "second commit"
+  128  git  staus 
+  129  git status
+  130  git add README
+  131  git README.md
+  132  git add README.md
+  133  git status
+  134  ls
+  135  EXIT
+  136  exit
+  137  mkdir git-basic-exercises
+  138  mkdir git-basic-exercises
+  139  cd C:/Users/OEM/git-basic-exercises
+  140  b q
+  141  exit
+  142  git config --global user.name "Zwelibanzi Ntanzi"
+  143  git config --global useremail zwelibanzi.ntanzi@umuzi.org
+  144  git config --global user.email zwelibanzi.ntanzi@umuzi.org
+  145  git config --global init.default branch main
+  146  mkdir git-basic-exercises
+  147  cd C:/Users/OEM/git-basic-exercises
+  148  git init
+  149  git branch -m master main
+  150  ls
+  151  ls a-
+  152  ls -a
+  153  git status
+  154  touch READMEmd
+  155  ls -a
+  156  git mv READMEmd README.md
+  157  git mv READMEmd READMEmd
+  158  git status
+  159  git status
+  160  git log
+  161  git add README.md
+  162  git status
+  163   git rm --cached README.md
+  164  git status
+  165  git add README.md
+  166  git commit -m "initial commit"
+  167  git log
+  168  q
+  169  nano README.md
+  170  git status
+  171  git commit -m "second commit"
+  172  cat README.md
+  173  nano READMEmd
+  174  cat README.md
+  175  git commit -m "third commit"
+  176  cat README.md
+  177  ls -a
+  178  git status
+  179  git log
+  180  cat README.md
+  181  git status
+  182  git add README.md
+  183  git commit -m "second commit"
+  184  ls -a
+  185  cat README.md
+  186  git status
+  187  git log
+  188  nano README.md
+  189  cat README.md
+  190  git commit -m "third commit"
+  191  git log
+  192  git add README.md
+  193  git commit -m "third commit"
+  194  git log
+  195  q
+  196  git checkout 7fed704c32b303014b3c119859de2f5c0cc29e31
+  197  cat README.md
+  198  git checkout main
+  199  cat README.md
+  200  git branch
+  201  git branch milkshake-flavours
+  202  git branch
+  203  git switch milkshake-flavours
+  204  git status
+  205  cat ReADME.md
+  206  nano milkshakes.md
+  207  cat milkshakes.md
+  208  git add milkshakes.md
+  209  git status
+  210  git commit -m "added initial flavours"
+  211  git log
+  212  switch main
+  213  git switch main
+  214  git branch history
+  215  checkout history
+  216  git branch
+  217  git checkout history
+  218  git checkout 
+  219  git log 
+  220  history >history.txt
